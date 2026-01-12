@@ -1,0 +1,13 @@
+com\university\textanalyzer\TextAnalyzer$WordFrequency.class
+com\university\textanalyzer\TextAnalyzer.class
+com\university\textanalyzer\App$2$1.class
+com\university\textanalyzer\App$FileInfo.class
+com\university\textanalyzer\App$1.class
+com\university\textanalyzer\App.class
+com\university\textanalyzer\MultiThreadedAnalyzer.class
+com\university\textanalyzer\TextAnalyzer$ProgressListener.class
+com\university\textanalyzer\App$2.class
+com\university\textanalyzer\TextAnalyzer$AnalysisResult.class
+com\university\textanalyzer\App$1$1.class
+com\university\textanalyzer\MultiThreadedAnalyzer$1.class
+com\university\textanalyzer\MultiThreadedAnalyzer$GlobalProgressListener.class
